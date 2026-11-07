@@ -13,3 +13,4 @@ I am learning to code to bridge the gap between business analytics and software 
 3. Full-stack web applications for institutional data management.
 
 Find me on [GitHub](https://github.com/PeterKebaso2026).
+Based in Kisii, Kenya.
